@@ -1,0 +1,4 @@
+Strategy Pattern
+
+In Strategy pattern, a class behavior or its algorithm can be changed at run time.
+In Strategy pattern, we create object which represent various strategies and a context object whose behaviour varies as per its strategy object. The strategy object changes the execution algorithm of the context object.
